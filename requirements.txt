@@ -1,1 +1,10 @@
-
+segmentation-models-pytorch
+albumentations @ git+https://github.com/albumentations-team/albumentations.git
+opencv-contrib-python
+numpy
+pandas
+torch
+torchvision
+tqdm
+scikit-learn
+matplotlib
